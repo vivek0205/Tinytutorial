@@ -5,9 +5,10 @@ window._config = {
         region: 'us-east-1' // e.g. us-east-2
     },
     api: {
-        invokeUrl: 'https://ah93yq8y22.execute-api.us-east-1.amazonaws.com/Dev' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
+        invokeUrl: 'https://31ojqlyc7l.execute-api.us-east-1.amazonaws.com/Dev' // e.g. https://rc7nyt4tql.execute-api.us-west-2.amazonaws.com/prod',
     }
 };
+
 
 
 
